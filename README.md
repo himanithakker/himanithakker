@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @himanithakker
 - 👀 I’m interested in Data Analysis and Visualisation of data 
-- 🌱 I’m currently learning MAchine Learning and SQL
+- 🌱 I’m currently learning Machine Learning and SQL
 - 📫 How to reach me - himanithakker@gmail.com
 
 <!---
