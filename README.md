@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @himanithakker
-- 👀 I’m interested in Data Analysis and Visualisation of data 
+- 👀 I’m interested in analyszing and obtaining useful insights from data
 - 🌱 I’m currently learning Machine Learning and SQL
 - 📫 How to reach me - himanithakker@gmail.com
 
